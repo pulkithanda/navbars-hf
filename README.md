@@ -5,7 +5,8 @@
 </p>
 
 <p>
-This is an extensive collection of navbars where you can find all the navbars you need weather it be sticky, sliding or full screen etc <br>
+This is an extensive collection of navbars where you can find all the navbars you need weather it be sticky, sliding or full screen etc with different types of hover
+effects and styles. It also contains some costum & unique navbars. <br>
 Key features: ⊛ Ready made navbar collection ⊛ Different styles ⊛ Open souce available code. </p>
 
 <div align="center"><h2 align="center"> A demo and preview :movie_camera: </h2>
