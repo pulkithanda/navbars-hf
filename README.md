@@ -10,12 +10,12 @@ effects and styles. It also contains some costum & unique navbars. <br>
 Key features: ⊛ Ready made navbar collection ⊛ Different styles ⊛ Open souce available code. </p>
 
 <div align="center"><h2 align="center"> A demo and preview :movie_camera: </h2>
-<img src="https://cdn.discordapp.com/attachments/789454958453063702/893815324934295573/unknown.png" width="250" height="150">
-<img src="https://cdn.discordapp.com/attachments/789454958453063702/893815374678753280/unknown.png" width="250" height="150">
-<img src="https://cdn.discordapp.com/attachments/789454958453063702/893815578207350784/unknown.png" width="250" height="150">
-<img src="https://cdn.discordapp.com/attachments/789454958453063702/893815683845091388/unknown.png" width="250" height="150">
-<img src="https://cdn.discordapp.com/attachments/789454958453063702/893815783266865202/unknown.png" width="250" height="150">
-<img src="https://cdn.discordapp.com/attachments/789454958453063702/893815986023710741/unknown.png" width="250" height="150">
+<img src="https://media.discordapp.net/attachments/791743706402652170/896244746727591936/unknown.png?width=981&height=591" width="250" height="150">
+<img src="https://media.discordapp.net/attachments/791743706402652170/896244816847978526/unknown.png?width=1156&height=590" width="250" height="150">
+<img src="https://media.discordapp.net/attachments/791743706402652170/896244885240295425/unknown.png?width=1254&height=590" width="250" height="150">
+<img src="https://media.discordapp.net/attachments/791743706402652170/896244935584530432/unknown.png?width=1186&height=590" width="250" height="150">
+<img src="https://media.discordapp.net/attachments/791743706402652170/896244985471578183/unknown.png?width=1148&height=590" width="250" height="150">
+<img src="https://media.discordapp.net/attachments/791743706402652170/896245034297458698/unknown.png?width=1158&height=590" width="250" height="150">
 <p align="center"> View live demo (https://portfolios-template.netlify.app/).</div>
 
 ## Contribution Guidelines🏗
