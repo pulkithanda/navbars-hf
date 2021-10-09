@@ -16,7 +16,7 @@ Key features: ⊛ Ready made navbar collection ⊛ Different styles ⊛ Open sou
 <img src="https://media.discordapp.net/attachments/791743706402652170/896244935584530432/unknown.png?width=1186&height=590" width="250" height="150">
 <img src="https://media.discordapp.net/attachments/791743706402652170/896244985471578183/unknown.png?width=1148&height=590" width="250" height="150">
 <img src="https://media.discordapp.net/attachments/791743706402652170/896245034297458698/unknown.png?width=1158&height=590" width="250" height="150">
-<p align="center"> View live demo (https://portfolios-template.netlify.app/).</div>
+<p align="center"> View live demo (https://endlessnavs.netlify.app/).</div>
 
 ## How to contribute:
 
