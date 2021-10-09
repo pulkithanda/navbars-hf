@@ -578,3 +578,13 @@ body.dark-theme {
     right: 2rem;
   }
 }
+.services__data:hover {
+  transform: scale(1.15);
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+}
+.services__data {
+
+  transition: 0.5s ease;
+  cursor: pointer;
+  margin:23px;
+}
