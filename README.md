@@ -18,6 +18,13 @@ Key features: ⊛ Ready made navbar collection ⊛ Different styles ⊛ Open sou
 <img src="https://media.discordapp.net/attachments/791743706402652170/896245034297458698/unknown.png?width=1158&height=590" width="250" height="150">
 <p align="center"> View live demo (https://portfolios-template.netlify.app/).</div>
 
+## How to contribute:
+
+1. Go to the navbars.html file, copy the card code and change the tag with navbar 2,3,4 etc.
+2. Add your codepen link in the see code anchor tag and record a video of your navbar and convert it into a gif.
+3. Put the gif into the img tag and write the description about your navbar and also the languages used.
+4. Give a rating to it out of 5 and then also add the code of navbar (html and css files) in the navbarcodes folder.
+
 ## Contribution Guidelines🏗
 
 Give this project a headstart by putting all types of navbars you've worked with and explore others too (also counts towards hacktoberfest 2021)
@@ -25,7 +32,7 @@ To start contributing, follow the below guidelines:
 
 ```
   Fork the repository and then clone it using the instructions below:
-  D:\xyz_folder> git clone https://github.com/pulkithanda/Portfolio-hf.git
+  D:\xyz_folder> git clone https://github.com/pulkithanda/navbars.git
   Add you files and do the the necessary changes then:
   git add .
   git commit -m "<your_commit_message>"
