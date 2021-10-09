@@ -1,0 +1,49 @@
+/* navbar styling */
+.navbar {
+  overflow: hidden;
+  position: relative;
+}
+
+/* navbar links are hidden by-default */
+.navbar #navbarLinks {
+  display: none;
+  text-align: center;
+}
+
+/* Styling for nav links*/
+.navbar a {
+  color: black;
+  font-family: Helvetica;
+  font-weight: 800;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+/* On hover effect */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+/* Hamburger styling */
+#menu {
+  right: 3%;
+  top: 8%;
+  display: block;
+  position: absolute;
+  padding: 0.6%;
+}
+/* nav links divider */
+#divider {
+  width: 10rem;
+  color: #ddd;
+}
+/* navbar end divider */
+#divider-end {
+  width: 100%;
+  text-align: center;
+  border-color: #ddd;
+  margin-top: 0;
+  padding-top: 0;
+}
