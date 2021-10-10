@@ -5,16 +5,17 @@ body{
     width: 100%;
     min-height: 100vh;
     position: relative;
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
     background: #f1efec;
     font-family: 'roboto', sans-serif;
+    padding-top: 2rem;
 }
 
 .product{
     position: relative;
-    width: 1000px;
+    width: 100%;
     min-width: 350px;
     min-height: 500px;
     height: auto;
