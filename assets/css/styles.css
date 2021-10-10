@@ -456,6 +456,18 @@ body.dark-theme {
   background-color: var(--text-color-light);
 }
 
+.progress-container {
+  width: 100%;
+  height: 5px;
+  /* background: #ccc; */
+}
+
+.progress-bar {
+  height: 5px;
+  background: #FDCB35;
+  width: 0%;
+}
+
 /*=============== MEDIA QUERIES ===============*/
 /* For small devices */
 @media screen and (max-width: 360px) {
