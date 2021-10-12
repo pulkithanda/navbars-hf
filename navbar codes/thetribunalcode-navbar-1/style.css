@@ -1,0 +1,65 @@
+body
+{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+li,a, button{
+  font-family: 'Mali', cursive;
+  font-weight: 200;
+  font-size: 1.5rem;
+  color: #F43B86;
+  text-decoration: none;
+}
+
+.main{
+  font-weight: 500;
+  font-size: 2.5rem;
+  color: #FFE459;
+  margin-right: auto;
+}
+
+nav{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 30px 20%;
+  background-color: #11052C;
+}
+
+.links
+{
+  list-style: none;
+}
+
+.links li{
+  display: inline-block;
+  padding: 20px;
+}
+
+.links li a
+{
+  transition: all 0.4s ease 0s;
+}
+
+.links li a:hover
+{
+  color: #AA2EE6
+}
+
+button{
+  margin-left: 20px;
+  padding: 9px 25px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 10000;
+  background-color: rgba(178, 249, 252, 1);
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.4s ease 0s;
+}
+button:hover
+{
+  background-color: rgba(178, 249, 252, 0.8);
+}
