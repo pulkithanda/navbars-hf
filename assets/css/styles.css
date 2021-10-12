@@ -192,6 +192,10 @@ body.dark-theme {
   color: var(--title-color);
   font-weight: var(--font-semi-bold);
 }
+.nav__link:hover{
+  color: blue;
+  font-weight: bolder
+}
 
 .nav__toggle {
   font-size: 1.3rem;
@@ -308,6 +312,8 @@ body.dark-theme {
 .services__data:hover {
   transform: scale(1.04);
   border-bottom: 5px solid var(--first-color);
+  box-shadow: 0 0 10px white;
+  background-color: rgb(212, 144, 170);
 }
 
 .services__img {
@@ -393,10 +399,18 @@ body.dark-theme {
 .footer__link {
   color: var(--title-color);
 }
+.footer__link:hover{
+  color: blue;
+  font-weight: bolder;
+}
 
 .footer__social {
   display: flex;
   column-gap: 1.5rem;
+}
+.footer__social-link:hover{
+  box-shadow: black;
+  transform: scale(1.5);
 }
 
 .footer__social-link {
