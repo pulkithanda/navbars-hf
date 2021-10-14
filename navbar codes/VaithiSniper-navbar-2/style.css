@@ -1,0 +1,39 @@
+.navbar {
+  background: linear-gradient(-45deg, #331e36, #4781b8, #17c3b2, #fe6d73);
+  background-size: 400% 400%;
+  animation: gradient 20s ease infinite;
+  height: 100%;
+}
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+/* navbar and gradient */
+.navLink {
+  font-family: Helvetica;
+  color: white;
+  font-size: 2rem;
+  font-weight: 800;
+  text-decoration: none;
+  padding: 3%;
+}
+/* individual navlinks */
+.navLinks {
+  float: right;
+  width: 50%;
+  position: absolute;
+  right: 0;
+  padding-top: 0.5rem;
+}
+/* navlinks container */
+.navBrand {
+  padding: 3% 0 0 4%;
+}
+/* navbar brand */
