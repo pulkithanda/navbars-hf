@@ -1,0 +1,11 @@
+.nav-link{
+  font-family:  'Nunito', sans-serif;
+}
+.nav-link:hover{
+  transform :scale(1.1);
+  animation: 10s ease-in;
+  background: #818181;
+}
+.dropdown{
+  padding-right:15%;
+}
