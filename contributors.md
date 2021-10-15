@@ -5,4 +5,4 @@ VaithiSniper : Added navbar1,navbar2 to  pulkithanda/navbars-hf, issue link - ht
 
 thetribunalcode : Added navbar1 to  pulkithanda/navbars-hf, issue link - https://github.com/pulkithanda/navbars-hf/issues/4#issue-1021596201.
 
-ShiviDev: Added navbar1,navbar2 to  pulkithanda/navbars-hf, issue link - https://github.com/pulkithanda/navbars-hf/issues/4#issue-1021596201.
+ShiviDev: Added navbar1,navbar2,navbar3 to  pulkithanda/navbars-hf, issue link - https://github.com/pulkithanda/navbars-hf/issues/4#issue-1021596201.
