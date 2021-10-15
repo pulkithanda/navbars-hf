@@ -1,0 +1,12 @@
+.nav-item-main{
+  font-family:Roboto,monospace;
+  font-size:1.3rem;
+}
+.nav-item-main:hover{
+  transform:scale(1.1);
+  background-color:#5A5F73;
+}
+.nav-item:hover{
+  transform:scale(1.1) rotate(12deg);
+  background-color:;
+}
