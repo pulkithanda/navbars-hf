@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"/>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
+    <title>Full Screen Navbar</title>
+</head>
+<body>
+    <div class="top-btn">
+        <button onclick="navOpen()">
+            <i class="fas fa-bars"></i>
+        </button>
+    </div>
+    <div class="nav-bar" id="navigation-bar">
+        <div class="nav-close">
+            <i class="fas fa-times close" onclick="navClose()"></i>
+        </div>
+        <div class="nav-item">Home</div>
+        <div class="nav-item">About Us</div>
+        <div class="nav-item">Services</div>
+        <div class="nav-item">Contact Us</div>
+        <div class="social">
+            <i class="fab fa-facebook-f"></i>
+            <i class="fab fa-linkedin"></i>
+            <i class="fab fa-twitter"></i>
+        </div>
+    </div>
+    <div class="info">
+        The button on top right corner opens a full screen Navigation Bar
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
