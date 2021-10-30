@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    z-index: 1;
+}
+.top-btn button{
+    border: none;
+    background-color: white;
+    float: right;
+    padding: 1rem 1.5rem;
+}
+.top-btn i{
+    font-size: 25px;
+    cursor: pointer;
+}
+.top-btn i:hover{
+    transform: scale(1.05);
+}
+#navigation-bar{
+    display: none;
+    position: absolute;
+    min-height: 100vh;
+    width: 100vw;
+    z-index: 2;
+    background-image: linear-gradient(to right, #a1a1f0 , #f36981);
+   
+}
+.close{
+    float: right;
+    padding: 2rem 1rem;
+    font-size: 22px;
+    cursor: pointer;
+}
+.nav-item , .social{
+    margin: auto;
+    width: fit-content;
+    font-family: 'Satisfy', cursive;
+    font-size: 30px;
+    padding: 5vh 0;
+}
+.social i{
+    padding: 0 0.7rem;
+    cursor: pointer;
+}
+.social i:hover{
+    transform: scale(1.05);
+}
+.info{
+    padding-top: 22vh;
+        margin: auto;
+        width: max-content;
+        font-size: 18px;
+        font-weight: bold;
+        color: slategrey;
+}
+.nav-item{
+    cursor: pointer;
+}
+.nav-item:hover{
+    color: white;
+}
